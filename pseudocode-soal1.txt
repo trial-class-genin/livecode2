@@ -1,0 +1,9 @@
+PROGRAM 
+Highlest Global Minimum
+DEKLARASI
+int nialai1, nilai2)
+ALGORITMA
+- tentukan nilai minimum dari var nilai1 menggunakan for
+- tentukan nilai minimum dari var nilai2 menggunakan for
+- bandingkan nilai dari hasil antara dua variabel tersebut untuk mencari hasil yg terbesar
+- return hasil dari proses bandingan tersebut  
